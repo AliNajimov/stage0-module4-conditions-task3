@@ -5,7 +5,7 @@ public class AliquotNumbers {
         if (first==5&&second==25){
             System.out.println("Aliquot");
         }else {
-            System.println("Non Aliquot");
+            System.out.println("Non Aliquot");
         }
     }
 }
